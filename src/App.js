@@ -1,15 +1,23 @@
 import React from 'react';
-import logo from './logo.svg';
+import Home from './components/Home'
+import Header from './components/Header'
+import SignIn from './components/SignIn'
+import SignUp from './components/SignUp'
+import About from './components/About';
+import { Route, BrowserRouter as Router } from 'react-router-dom'
 import './App.css';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-          SIH 2020
-      </header>
-    </div>
+    <Router>
+      <div>
+        <Header />
+        <Route exact path="/" component={Home} />
+        <Route path="/signIn" component={SignIn} />
+        <Route path="/signUp" component={SignUp} />
+        <Route path="/about" component={About} />
+      </div>
+    </Router>
   );
 }
 
