@@ -43,7 +43,12 @@ SIH PROJECT 2020
 
 
 # Technology use:
->
+- React.js
+- Node.js
+- Javascript
+- HTML
+- CSS
+- Bootstrap
 
 
 # Members:
