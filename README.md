@@ -52,11 +52,13 @@ Aryaman Puri
 : Collaborator of taskcluster(Mozilla)
 : Member of Gatsby community
 
-Sagun 
-: nkn
+Sagun Gupta
+: Android Developer
+: Participant at Quadcopter 
 
 Sachi Gupta 
-: Ethical hacking student
+: Ethical hacking Participant in Robothon 2019(IIT DELHI)
+
 
 
 Anubhav Singh 
@@ -72,7 +74,7 @@ Aashim Garg
 Aman Kumar
 : KWOC - Student Mentor 
 : Web - Developer
-
+: Contributer of paper.js
 
 
 
