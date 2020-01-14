@@ -12,7 +12,7 @@ import MenuIcon from "@material-ui/icons/Menu";
 import CloseIcon from "@material-ui/icons/Close";
 import Toolbar from "@material-ui/core/Toolbar";
 import { makeStyles, useTheme } from "@material-ui/core/styles";
-import { Link } from "@reach/router";
+import { Link } from "react-router-dom";
 import Button from "@material-ui/core/Button";
 import Grid from "@material-ui/core/Grid";
 
@@ -120,6 +120,19 @@ function ResponsiveDrawer() {
             </IconButton>
             <Hidden only="xs">
               <span className={classes.btn}>
+
+                <Link
+                  style={{ textDecoration: "none", color: "white", float: "left" }}
+                  to="/"
+                >
+                  <Button
+                    color="inherit"
+                    style={{ fontSize: 20, color: "yellow", }}
+                  >
+                    HOME
+                  </Button>
+                </Link>
+
                 <Link
                   style={{ textDecoration: "none", color: "white" }}
                   to="/about"
@@ -131,6 +144,8 @@ function ResponsiveDrawer() {
                     About
                   </Button>
                 </Link>
+
+
                 <Link
                   style={{
                     textDecoration: "none",
@@ -147,26 +162,38 @@ function ResponsiveDrawer() {
                   </Button>
                 </Link>
 
-                <a
+                <Link
                   style={{
                     textDecoration: "none",
-                    color: "yellow"
+                    color: "white",
+                    marginLeft: 20
                   }}
-                  href="#contact"
+                  to="/signIn"
                 >
                   <Button
                     color="inherit"
-                    style={{ fontSize: 20, marginLeft: 20 }}
+                    style={{ fontSize: 20, color: "yellow", marginLeft: 20 }}
                   >
-                    Contact
+                    SIGNIN
                   </Button>
-                </a>
-                <Button
-                  color="inherit"
-                  style={{ fontSize: 20, color: "yellow", marginLeft: 20 }}
+                </Link>
+
+
+                <Link
+                  style={{
+                    textDecoration: "none",
+                    color: "white",
+                    marginLeft: 20
+                  }}
+                  to="/signUp"
                 >
-                  More info
-                </Button>
+                  <Button
+                    color="inherit"
+                    style={{ fontSize: 20, color: "yellow", marginLeft: 20 }}
+                  >
+                    SIGNUP
+                  </Button>
+                </Link>
               </span>
             </Hidden>
           </Toolbar>
