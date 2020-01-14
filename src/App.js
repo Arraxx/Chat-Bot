@@ -13,6 +13,13 @@ function App() {
     <Router>
       <div>
         <Header />
+        <div style={{ marginTop: "50px", fontFamily: "Comic Sans, Comic Sans MS, cursive", fontSize: "24px" }}>
+          <center>
+            <b>
+              Efficient and user-friendly Chabot Based Crime Registration & Crime Awareness System
+            </b>
+          </center>
+        </div>
         <Route exact path="/" component={Home} />
         <Route path="/signIn" component={SignIn} />
         <Route path="/signUp" component={SignUp} />

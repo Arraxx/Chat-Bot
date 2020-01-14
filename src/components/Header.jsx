@@ -107,7 +107,7 @@ function ResponsiveDrawer() {
     <div className={classes.root}>
       <CssBaseline />
       <Grid item xs={9}>
-        <AppBar position="fixed" className={classes.appBar} color="secondary">
+        <AppBar position="fixed" className={classes.appBar} color="primary">
           <Toolbar>
             <IconButton
               color="inherit"
@@ -127,7 +127,7 @@ function ResponsiveDrawer() {
                 >
                   <Button
                     color="inherit"
-                    style={{ fontSize: 20, color: "yellow", }}
+                    style={{ fontSize: 20, color: "white", }}
                   >
                     HOME
                   </Button>
@@ -139,7 +139,7 @@ function ResponsiveDrawer() {
                 >
                   <Button
                     color="inherit"
-                    style={{ fontSize: 20, color: "yellow", marginLeft: 20 }}
+                    style={{ fontSize: 20, color: "white", marginLeft: 20 }}
                   >
                     About
                   </Button>
@@ -156,7 +156,7 @@ function ResponsiveDrawer() {
                 >
                   <Button
                     color="inherit"
-                    style={{ fontSize: 20, color: "yellow", marginLeft: 20 }}
+                    style={{ fontSize: 20, color: "white", marginLeft: 20 }}
                   >
                     Blog
                   </Button>
@@ -172,7 +172,7 @@ function ResponsiveDrawer() {
                 >
                   <Button
                     color="inherit"
-                    style={{ fontSize: 20, color: "yellow", marginLeft: 20 }}
+                    style={{ fontSize: 20, color: "white", marginLeft: 20 }}
                   >
                     SIGNIN
                   </Button>
@@ -189,7 +189,7 @@ function ResponsiveDrawer() {
                 >
                   <Button
                     color="inherit"
-                    style={{ fontSize: 20, color: "yellow", marginLeft: 20 }}
+                    style={{ fontSize: 20, color: "white", marginLeft: 20 }}
                   >
                     SIGNUP
                   </Button>
