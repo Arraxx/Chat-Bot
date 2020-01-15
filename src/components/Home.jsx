@@ -1,5 +1,4 @@
 import React, { Component } from 'react'
-import Bot from '../bot.png'
 export class Home extends Component {
   render() {
     return (

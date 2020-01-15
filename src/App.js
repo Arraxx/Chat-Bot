@@ -5,6 +5,8 @@ import SignIn from './components/SignIn'
 import SignUp from './components/SignUp'
 import About from './components/About';
 import Blog from './components/Blog'
+import Dashboard from './components/Dashboard';
+import Bot from './components/Bot'
 import { Route, BrowserRouter as Router } from 'react-router-dom'
 import './App.css';
 
@@ -25,6 +27,8 @@ function App() {
         <Route path="/signUp" component={SignUp} />
         <Route path="/about" component={About} />
         <Route path="/blog" component={Blog} />
+        <Route path="/dashboard" component={Dashboard} />
+        <Route path="/Bot" component={Bot} />
       </div>
     </Router>
   );
