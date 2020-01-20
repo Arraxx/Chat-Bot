@@ -10,7 +10,7 @@ export class Blog extends Component {
                         BLOG
             </b>
                 </center>
-                <div><b>Cyber Crime in India</b> has been rapidly evolving since the dawn of the technological era. Every day, in fact, you get to hear different tricks, scams and many other offence  being committed on the cyberspace. There are many types of cyber crime in India that have already been listed under the Information Technology Act, 2000, suggesting various types of crimes. Also in order to follow the guidelines of cyber crime act in India, in major cities, many cyber crime cells in India have been set up.
+                <div><b><u>Cyber Crime in India</u></b> has been rapidly evolving since the dawn of the technological era. Every day, in fact, you get to hear different tricks, scams and many other offence  being committed on the cyberspace. There are many types of cyber crime in India that have already been listed under the Information Technology Act, 2000, suggesting various types of crimes. Also in order to follow the guidelines of cyber crime act in India, in major cities, many cyber crime cells in India have been set up.
     
             With the advancement of technology, recent cases of cyber crime in India has also increased. Today, many crimes like kidnapping, fraud, hacking, data theft are being committed with the help of internet. Criminals who perform such activities are often referred to as “hackers”. Many of the cyber crime cases in India are registered under the IT Act.
     
