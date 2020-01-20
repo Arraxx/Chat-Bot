@@ -6,6 +6,7 @@ SIH PROJECT 2020
 
 # Smart India Hackathon 2020
 > Smart India Hackathon 2020 is a nationwide initiative to provide students a platform to solve some of the pressing problems we face in our daily lives, and thus inculcate a culture of product innovation and a mindset of problem solving.The last edition of the hackathon saw over 5 million+ students from various colleges compete for the top prize at 65+ locations. In SIH 2020, the students would have the opportunity to work on challenges faced within various Ministries, Departments, Industries, PSUs and NGOs to create world class solutions for some of the top organizations including industries in the world, thus helping the Private sector hire the best minds from across the nation.
+<br />
 
 ## What is SIH 2020?
 -   World’s Biggest Hackathon and Open Innovation model, an initiative by Ministry of HRD 4th edition of highly successful.
@@ -13,6 +14,7 @@ SIH PROJECT 2020
 -   Students across India compete creatively to solve problems of Ministries, Departments and Industries to give solutions Harness.
 -   Technology Students across India compete to creatively solve problems and offer technical solutions
 -   Harness expertise of students from AICTE/UGC approved institutions, IITs, NITs and IISc.
+<br />
 
 ## Why join SIH 2020?
 -   Get innovative solutions to your problems in cost effective ways Opportunity to be a part of Nation Building Opportunity to brand your company.
@@ -39,7 +41,7 @@ SIH PROJECT 2020
 <hr />
 
 # Aim:
->
+> 
 
 
 # Technology use:
@@ -49,7 +51,7 @@ SIH PROJECT 2020
 - HTML
 - CSS
 - Bootstrap
-
+- paper.js
 
 # Members:
 Aryaman Puri 
