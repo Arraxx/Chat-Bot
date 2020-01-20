@@ -41,7 +41,12 @@ SIH PROJECT 2020
 <hr />
 
 # Aim:
-> 
+> Efficient and user-friendly Chabot Based Crime Registration & Crime Awareness System for Bureau of Police Research &  Development domain is Software - Web App development.
+
+>  **This project is all about making of a chatbot for ongoing crimes in India,as it will be under the Bureau of Police Research & Development** this chatbot will tell you about what to do for which crime **How to file a case or something more about it and your registration data will be directly send to the police bureau.** The chatbot will ask you about your problem and then make you aware about that crime and give information about the same.
+      
+      The link for the project : https://chatbot-sih.netlify.com
+
 
 
 # Technology use:
