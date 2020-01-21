@@ -105,7 +105,7 @@ export default function SignUp() {
                             />
                         </Grid>
                     </Grid>
-                    <Link to="/dashboard" >
+                    <Link to="/Bot" >
                         <Button
                             type="submit"
                             fullWidth
