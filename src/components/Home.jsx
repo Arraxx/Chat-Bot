@@ -2,7 +2,7 @@ import React, { Component } from 'react'
 export class Home extends Component {
   render() {
     return (
-      <div class="how-section1" style={{ marginTop: "10px" }}>
+      <div class="how-section1" style={{ marginTop: "70px",padding-left: "30px" }}>
         <div class="row">
           <div class="col-lg-6 how-img">
             <img src="https://image.ibb.co/dDW27U/Work_Section2_freelance_img1.png" class="rounded-circle img-fluid" alt="" />
