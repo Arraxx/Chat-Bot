@@ -32,9 +32,9 @@ const useStyles = makeStyles(theme => ({
   },
   appBar: {
     zIndex: theme.zIndex.drawer + 1,
-    height: 30,
+   
     alignItems: "center",
-    justifyContent: "center"
+    justifyContent: "flex-end"
   },
   menuButton: {
     marginRight: theme.spacing(2),
