@@ -5,7 +5,7 @@ import SignIn from './components/SignIn'
 import SignUp from './components/SignUp'
 import About from './components/About';
 import Blog from './components/Blog'
-import Bot from './components/Bot'
+import Bot from './components/ChatBot'
 import { Route, BrowserRouter as Router } from 'react-router-dom'
 import './App.css';
 
