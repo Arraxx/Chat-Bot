@@ -9,7 +9,7 @@ SIH PROJECT 2020
 <br />
 
 ## What is SIH 2020?
--   World’s Biggest Hackathon and Open Innovation model, an initiative by Ministry of HRD 4th edition of highly successful.
+-   World’s Biggest Hackathon and Open Innovation model, an initiative by Ministry of HRD 4th edition of highly successful for the past few years.
 -   Smart India Hackathon initiative Involves 2 Lakh+ students with 57,000+ ideas from 2200+ institutions against 530+ problem statements provided by 120+ organizations from across India.
 -   Students across India compete creatively to solve problems of Ministries, Departments and Industries to give solutions Harness.
 -   Technology Students across India compete to creatively solve problems and offer technical solutions
